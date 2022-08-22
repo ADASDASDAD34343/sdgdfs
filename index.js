@@ -70,5 +70,5 @@ app.get('/admin', async function(req, res) {
   
   res.render("admin.ejs");
 })
-app.listen(300);
+app.listen(1800);
 console.log('Server is listening on port 8080');
